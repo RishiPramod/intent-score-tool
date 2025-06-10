@@ -7,7 +7,6 @@
   - Job title
   - Intent score
   - Rating according to the Intent score
-  - Streamlit app - 'https://intent-score-tool-dhnvsxz6kzdxuezuosy3sp.streamlit.app/'
 ---
 
 ## Features
@@ -85,4 +84,4 @@ pip install -r requirements.txt
 
 streamlit run streamlit_app/app_flow.py
 
-
+Streamlit app - 'https://intent-score-tool-dhnvsxz6kzdxuezuosy3sp.streamlit.app/'
