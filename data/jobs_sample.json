@@ -1,0 +1,289 @@
+[
+  {
+    "company": "Notion",
+    "title": "ML Backend Developer",
+    "description": "Design ML inference systems and deployment pipelines.",
+    "location": "San Francisco",
+    "url": "https://notion.so/careers/ml-backend-developer"
+  },
+  {
+    "company": "Notion",
+    "title": "Data Scientist - SaaS",
+    "description": "Analyze product data and build prediction models.",
+    "location": "San Francisco",
+    "url": "https://notion.so/careers/data-scientist---saas"
+  },
+  {
+    "company": "Airtable",
+    "title": "AI Research Engineer",
+    "description": "Work on advanced machine learning models for software tools.",
+    "location": "Remote",
+    "url": "https://airtable.com/careers/ai-research-engineer"
+  },
+  {
+    "company": "Airtable",
+    "title": "ML Backend Developer",
+    "description": "Design ML inference systems and deployment pipelines.",
+    "location": "Remote",
+    "url": "https://airtable.com/careers/ml-backend-developer"
+  },
+  {
+    "company": "Asana",
+    "title": "AI Research Engineer",
+    "description": "Work on advanced machine learning models for software tools.",
+    "location": "San Francisco",
+    "url": "https://asana.com/careers/ai-research-engineer"
+  },
+  {
+    "company": "Asana",
+    "title": "ML Backend Developer",
+    "description": "Design ML inference systems and deployment pipelines.",
+    "location": "San Francisco",
+    "url": "https://asana.com/careers/ml-backend-developer"
+  },
+  {
+    "company": "ClickUp",
+    "title": "ML Backend Developer",
+    "description": "Design ML inference systems and deployment pipelines.",
+    "location": "California",
+    "url": "https://clickup.com/careers/ml-backend-developer"
+  },
+  {
+    "company": "ClickUp",
+    "title": "Data Scientist - SaaS",
+    "description": "Analyze product data and build prediction models.",
+    "location": "California",
+    "url": "https://clickup.com/careers/data-scientist---saas"
+  },
+  {
+    "company": "ClickUp",
+    "title": "AI Research Engineer",
+    "description": "Work on advanced machine learning models for software tools.",
+    "location": "California",
+    "url": "https://clickup.com/careers/ai-research-engineer"
+  },
+  {
+    "company": "Zapier",
+    "title": "AI Research Engineer",
+    "description": "Work on advanced machine learning models for software tools.",
+    "location": "Remote",
+    "url": "https://zapier.com/careers/ai-research-engineer"
+  },
+  {
+    "company": "Zapier",
+    "title": "ML Backend Developer",
+    "description": "Design ML inference systems and deployment pipelines.",
+    "location": "Remote",
+    "url": "https://zapier.com/careers/ai-research-engineer"
+  },
+  {
+    "company": "Linear",
+    "title": "AI Research Engineer",
+    "description": "Work on advanced machine learning models for software tools.",
+    "location": "New York",
+    "url": "https://linear.app/careers/ai-research-engineer"
+  },
+  {
+    "company": "Linear",
+    "title": "ML Backend Developer",
+    "description": "Design ML inference systems and deployment pipelines.",
+    "location": "New York",
+    "url": "https://linear.app/careers/ml-backend-developer"
+  },
+  {
+    "company": "Slack",
+    "title": "ML Backend Developer",
+    "description": "Design ML inference systems and deployment pipelines.",
+    "location": "San Francisco",
+    "url": "https://slack.com/careers/ml-backend-developer"
+  },
+  {
+    "company": "Slack",
+    "title": "Data Scientist - SaaS",
+    "description": "Analyze product data and build prediction models.",
+    "location": "San Francisco",
+    "url": "https://slack.com/careers/data-scientist---saas"
+  },
+  {
+    "company": "Trello",
+    "title": "Data Scientist - SaaS",
+    "description": "Analyze product data and build prediction models.",
+    "location": "New York",
+    "url": "https://trello.com/careers/data-scientist---saas"
+  },
+  {
+    "company": "Trello",
+    "title": "AI Research Engineer",
+    "description": "Work on advanced machine learning models for software tools.",
+    "location": "New York",
+    "url": "https://trello.com/careers/data-scientist---saas"
+  },
+  {
+    "company": "Monday.com",
+    "title": "Data Scientist - SaaS",
+    "description": "Analyze product data and build prediction models.",
+    "location": "Tel Aviv",
+    "url": "https://monday.com/careers/data-scientist---saas"
+  },
+  {
+    "company": "Monday.com",
+    "title": "AI Research Engineer",
+    "description": "Work on advanced machine learning models for software tools.",
+    "location": "Tel Aviv",
+    "url": "https://monday.com/careers/ai-research-engineer"
+  },
+  {
+    "company": "Figma",
+    "title": "ML Backend Developer",
+    "description": "Design ML inference systems and deployment pipelines.",
+    "location": "San Francisco",
+    "url": "https://figma.com/careers/ml-backend-developer"
+  },
+  {
+    "company": "Figma",
+    "title": "AI Research Engineer",
+    "description": "Work on advanced machine learning models for software tools.",
+    "location": "San Francisco",
+    "url": "https://figma.com/careers/ai-research-engineer"
+  },
+  {
+    "company": "Tempus",
+    "title": "Healthcare AI Engineer",
+    "description": "Build AI-driven diagnostic and health tools.",
+    "location": "Chicago",
+    "url": "https://tempus.com/careers/healthcare-ai-engineer"
+  },
+  {
+    "company": "Tempus",
+    "title": "AI Bioinformatics Analyst",
+    "description": "Use AI to interpret healthcare datasets.",
+    "location": "Chicago",
+    "url": "https://tempus.com/careers/healthcare-ai-engineer"
+  },
+  {
+    "company": "Flatiron Health",
+    "title": "AI Bioinformatics Analyst",
+    "description": "Use AI to interpret healthcare datasets.",
+    "location": "New York",
+    "url": "https://flatiron.com/careers/ai-bioinformatics-analyst"
+  },
+  {
+    "company": "Flatiron Health",
+    "title": "Healthcare AI Engineer",
+    "description": "Build AI-driven diagnostic and health tools.",
+    "location": "New York",
+    "url": "https://flatiron.com/careers/healthcare-ai-engineer"
+  },
+  {
+    "company": "Olive",
+    "title": "Medical Data Scientist",
+    "description": "Model clinical outcomes from patient records.",
+    "location": "Columbus",
+    "url": "https://oliveai.com/careers/medical-data-scientist"
+  },
+  {
+    "company": "Olive",
+    "title": "AI Bioinformatics Analyst",
+    "description": "Use AI to interpret healthcare datasets.",
+    "location": "Columbus",
+    "url": "https://oliveai.com/careers/ai-bioinformatics-analyst"
+  },
+  {
+    "company": "Butterfly Network",
+    "title": "Medical Data Scientist",
+    "description": "Model clinical outcomes from patient records.",
+    "location": "Connecticut",
+    "url": "https://butterflynetwork.com/careers/medical-data-scientist"
+  },
+  {
+    "company": "Butterfly Network",
+    "title": "AI Bioinformatics Analyst",
+    "description": "Use AI to interpret healthcare datasets.",
+    "location": "Connecticut",
+    "url": "https://butterflynetwork.com/careers/ai-bioinformatics-analyst"
+  },
+  {
+    "company": "Ginger",
+    "title": "Healthcare AI Engineer",
+    "description": "Build AI-driven diagnostic and health tools.",
+    "location": "San Francisco",
+    "url": "https://ginger.com/careers/healthcare-ai-engineer"
+  },
+  {
+    "company": "Ginger",
+    "title": "Healthcare AI Engineer",
+    "description": "Build AI-driven diagnostic and health tools.",
+    "location": "San Francisco",
+    "url": "https://ginger.com/careers/healthcare-ai-engineer"
+  },
+  {
+    "company": "Color",
+    "title": "Medical Data Scientist",
+    "description": "Model clinical outcomes from patient records.",
+    "location": "Burlingame",
+    "url": "https://color.com/careers/medical-data-scientist"
+  },
+  {
+    "company": "Color",
+    "title": "Healthcare AI Engineer",
+    "description": "Build AI-driven diagnostic and health tools.",
+    "location": "Burlingame",
+    "url": "https://color.com/careers/healthcare-ai-engineer"
+  },
+  {
+    "company": "23andMe",
+    "title": "AI Bioinformatics Analyst",
+    "description": "Use AI to interpret healthcare datasets.",
+    "location": "Sunnyvale",
+    "url": "https://23andme.com/careers/ai-bioinformatics-analyst"
+  },
+  {
+    "company": "23andMe",
+    "title": "Medical Data Scientist",
+    "description": "Model clinical outcomes from patient records.",
+    "location": "Sunnyvale",
+    "url": "https://23andme.com/careers/medical-data-scientist"
+  },
+  {
+    "company": "Headspace",
+    "title": "Healthcare AI Engineer",
+    "description": "Build AI-driven diagnostic and health tools.",
+    "location": "Santa Monica",
+    "url": "https://headspace.com/careers/healthcare-ai-engineer"
+  },
+  {
+    "company": "Headspace",
+    "title": "Healthcare AI Engineer",
+    "description": "Build AI-driven diagnostic and health tools.",
+    "location": "Santa Monica",
+    "url": "https://headspace.com/careers/healthcare-ai-engineer"
+  },
+  {
+    "company": "Omada Health",
+    "title": "Healthcare AI Engineer",
+    "description": "Build AI-driven diagnostic and health tools.",
+    "location": "San Francisco",
+    "url": "https://omadahealth.com/careers/healthcare-ai-engineer"
+  },
+  {
+    "company": "Omada Health",
+    "title": "Medical Data Scientist",
+    "description": "Model clinical outcomes from patient records.",
+    "location": "San Francisco",
+    "url": "https://omadahealth.com/careers/medical-data-scientist"
+  },
+  {
+    "company": "GoodRx",
+    "title": "Medical Data Scientist",
+    "description": "Model clinical outcomes from patient records.",
+    "location": "Santa Monica",
+    "url": "https://goodrx.com/careers/medical-data-scientist"
+  },
+  {
+    "company": "GoodRx",
+    "title": "Healthcare AI Engineer",
+    "description": "Build AI-driven diagnostic and health tools.",
+    "location": "Santa Monica",
+    "url": "https://goodrx.com/careers/healthcare-ai-engineer"
+  }
+]

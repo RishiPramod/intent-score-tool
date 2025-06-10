@@ -1,0 +1,23 @@
+[
+  {
+    "company": "Notion",
+    "title": "ML Backend Developer",
+    "description": "Design ML inference systems.",
+    "location": "San Francisco",
+    "url": "https://notion.so/careers/ml-backend-developer"
+  },
+  {
+    "company": "Airtable",
+    "title": "AI Research Engineer",
+    "description": "Work on ML models.",
+    "location": "Remote",
+    "url": "https://airtable.com/careers/ai-research-engineer"
+  },
+  {
+    "company": "Slack",
+    "title": "Data Scientist - SaaS",
+    "description": "Build prediction models.",
+    "location": "San Francisco",
+    "url": "https://slack.com/careers/data-scientist---saas"
+  }
+]

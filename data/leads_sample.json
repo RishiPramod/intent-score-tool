@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Alex Chen",
+    "title": "CTO",
+    "company": "Notion",
+    "linkedin": "https://linkedin.com/in/alexchen"
+  },
+  {
+    "name": "Taylor Lee",
+    "title": "Director of Engineering",
+    "company": "Notion",
+    "linkedin": "https://linkedin.com/in/taylorlee"
+  },
+  {
+    "name": "Casey Garcia",
+    "title": "CTO",
+    "company": "Airtable",
+    "linkedin": "https://linkedin.com/in/caseygarcia"
+  },
+  {
+    "name": "Jordan Garcia",
+    "title": "Director of Engineering",
+    "company": "Airtable",
+    "linkedin": "https://linkedin.com/in/jordangarcia"
+  },
+  {
+    "name": "Casey Lee",
+    "title": "CTO",
+    "company": "Asana",
+    "linkedin": "https://linkedin.com/in/caseylee"
+  },
+  {
+    "name": "Alex Lee",
+    "title": "VP of Product",
+    "company": "Asana",
+    "linkedin": "https://linkedin.com/in/alexlee"
+  },
+  {
+    "name": "Taylor Garcia",
+    "title": "CTO",
+    "company": "ClickUp",
+    "linkedin": "https://linkedin.com/in/taylorgarcia"
+  },
+  {
+    "name": "Taylor Smith",
+    "title": "VP of Product",
+    "company": "ClickUp",
+    "linkedin": "https://linkedin.com/in/taylorsmith"
+  },
+  {
+    "name": "Jordan Chen",
+    "title": "CTO",
+    "company": "Zapier",
+    "linkedin": "https://linkedin.com/in/jordanchen"
+  },
+  {
+    "name": "Jordan Garcia",
+    "title": "CTO",
+    "company": "Zapier",
+    "linkedin": "https://linkedin.com/in/jordangarcia"
+  },
+  {
+    "name": "Casey Chen",
+    "title": "Head of AI",
+    "company": "Linear",
+    "linkedin": "https://linkedin.com/in/caseychen"
+  },
+  {
+    "name": "Casey Chen",
+    "title": "VP of Product",
+    "company": "Linear",
+    "linkedin": "https://linkedin.com/in/caseychen"
+  },
+  {
+    "name": "Morgan Lee",
+    "title": "AI Researcher",
+    "company": "Slack",
+    "linkedin": "https://linkedin.com/in/morganlee"
+  },
+  {
+    "name": "Jordan Lee",
+    "title": "Head of AI",
+    "company": "Slack",
+    "linkedin": "https://linkedin.com/in/jordanlee"
+  },
+  {
+    "name": "Morgan Smith",
+    "title": "CTO",
+    "company": "Trello",
+    "linkedin": "https://linkedin.com/in/morgansmith"
+  },
+  {
+    "name": "Alex Garcia",
+    "title": "Head of AI",
+    "company": "Trello",
+    "linkedin": "https://linkedin.com/in/alexgarcia"
+  },
+  {
+    "name": "Morgan Lee",
+    "title": "VP of Product",
+    "company": "Monday.com",
+    "linkedin": "https://linkedin.com/in/morganlee"
+  },
+  {
+    "name": "Casey Smith",
+    "title": "AI Researcher",
+    "company": "Monday.com",
+    "linkedin": "https://linkedin.com/in/caseysmith"
+  },
+  {
+    "name": "Casey Garcia",
+    "title": "Head of AI",
+    "company": "Figma",
+    "linkedin": "https://linkedin.com/in/caseygarcia"
+  },
+  {
+    "name": "Jordan Lee",
+    "title": "Head of AI",
+    "company": "Figma",
+    "linkedin": "https://linkedin.com/in/jordanlee"
+  },
+  {
+    "name": "Morgan Smith",
+    "title": "CTO",
+    "company": "Tempus",
+    "linkedin": "https://linkedin.com/in/morgansmith"
+  },
+  {
+    "name": "Casey Chen",
+    "title": "CTO",
+    "company": "Tempus",
+    "linkedin": "https://linkedin.com/in/caseychen"
+  },
+  {
+    "name": "Casey Lee",
+    "title": "CTO",
+    "company": "Flatiron Health",
+    "linkedin": "https://linkedin.com/in/caseylee"
+  },
+  {
+    "name": "Morgan Patel",
+    "title": "CTO",
+    "company": "Flatiron Health",
+    "linkedin": "https://linkedin.com/in/morganpatel"
+  },
+  {
+    "name": "Taylor Chen",
+    "title": "VP of Product",
+    "company": "Olive",
+    "linkedin": "https://linkedin.com/in/taylorchen"
+  },
+  {
+    "name": "Morgan Smith",
+    "title": "Director of Engineering",
+    "company": "Olive",
+    "linkedin": "https://linkedin.com/in/morgansmith"
+  },
+  {
+    "name": "Casey Garcia",
+    "title": "CTO",
+    "company": "Butterfly Network",
+    "linkedin": "https://linkedin.com/in/caseygarcia"
+  },
+  {
+    "name": "Taylor Garcia",
+    "title": "VP of Product",
+    "company": "Butterfly Network",
+    "linkedin": "https://linkedin.com/in/taylorgarcia"
+  },
+  {
+    "name": "Jordan Smith",
+    "title": "Head of AI",
+    "company": "Ginger",
+    "linkedin": "https://linkedin.com/in/jordansmith"
+  },
+  {
+    "name": "Taylor Patel",
+    "title": "Director of Engineering",
+    "company": "Ginger",
+    "linkedin": "https://linkedin.com/in/taylorpatel"
+  },
+  {
+    "name": "Jordan Garcia",
+    "title": "Director of Engineering",
+    "company": "Color",
+    "linkedin": "https://linkedin.com/in/jordangarcia"
+  },
+  {
+    "name": "Casey Chen",
+    "title": "VP of Product",
+    "company": "Color",
+    "linkedin": "https://linkedin.com/in/caseychen"
+  },
+  {
+    "name": "Casey Garcia",
+    "title": "CTO",
+    "company": "23andMe",
+    "linkedin": "https://linkedin.com/in/caseygarcia"
+  },
+  {
+    "name": "Taylor Chen",
+    "title": "Head of AI",
+    "company": "23andMe",
+    "linkedin": "https://linkedin.com/in/taylorchen"
+  },
+  {
+    "name": "Jordan Lee",
+    "title": "Director of Engineering",
+    "company": "Headspace",
+    "linkedin": "https://linkedin.com/in/jordanlee"
+  },
+  {
+    "name": "Taylor Smith",
+    "title": "Director of Engineering",
+    "company": "Headspace",
+    "linkedin": "https://linkedin.com/in/taylorsmith"
+  },
+  {
+    "name": "Morgan Patel",
+    "title": "Director of Engineering",
+    "company": "Omada Health",
+    "linkedin": "https://linkedin.com/in/morganpatel"
+  },
+  {
+    "name": "Morgan Patel",
+    "title": "VP of Product",
+    "company": "Omada Health",
+    "linkedin": "https://linkedin.com/in/morganpatel"
+  },
+  {
+    "name": "Morgan Smith",
+    "title": "VP of Product",
+    "company": "GoodRx",
+    "linkedin": "https://linkedin.com/in/morgansmith"
+  },
+  {
+    "name": "Morgan Patel",
+    "title": "VP of Product",
+    "company": "GoodRx",
+    "linkedin": "https://linkedin.com/in/morganpatel"
+  }
+]
