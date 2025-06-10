@@ -7,6 +7,7 @@
   - Job title
   - Intent score
   - Rating according to the Intent score
+  - Streamlit app - 'https://intent-score-tool-dhnvsxz6kzdxuezuosy3sp.streamlit.app/'
 ---
 
 ## Features
