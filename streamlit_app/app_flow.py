@@ -26,7 +26,7 @@ with col3:
     cancel_clicked = st.button("Cancel")
 
 if clear_clicked:
-    st.experimental_rerun()  
+    st.rerun()  
 
 elif cancel_clicked:
     st.info("Search cancelled. You may modify filters above.")
