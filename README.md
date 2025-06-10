@@ -1,4 +1,4 @@
-# Intent Score AI Lead Finder (Caprae-style)
+## Intent Score AI Lead Finder (Caprae-style)
 
 This AI-powered tool replicates the workflow of **Caprae Capital’s Pre-Screening Engine** to identify promising companies, score job leads based on intent, and visualize results through a smart and user-friendly Streamlit interface.
 This tool is focused to improve the performance of "SCRAPER TOOL" by providing additional features of 
