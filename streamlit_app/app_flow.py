@@ -9,7 +9,7 @@ from scoring.score import compute_score
 from scoring.rating import get_rating
 
 st.set_page_config(page_title="Caprae Lead Scorer", layout="centered")
-metadata_df = pd.read_csv("/home/rishi/intent_score_project/data/companies_metadata.csv")
+metadata_df = pd.read_csv("data/companies_metadata.csv")
 
 st.markdown("Choose an Industry")
 selected_industry = st.text_input("Industry", placeholder="Enter industry (e.g. Software, Healthcare)")
